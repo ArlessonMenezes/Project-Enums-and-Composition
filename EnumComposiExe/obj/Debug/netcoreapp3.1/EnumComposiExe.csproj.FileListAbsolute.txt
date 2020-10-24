@@ -1,0 +1,13 @@
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\EnumComposiExe\EnumComposiExe\bin\Debug\netcoreapp3.1\EnumComposiExe.exe
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\EnumComposiExe\EnumComposiExe\bin\Debug\netcoreapp3.1\EnumComposiExe.deps.json
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\EnumComposiExe\EnumComposiExe\bin\Debug\netcoreapp3.1\EnumComposiExe.runtimeconfig.json
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\EnumComposiExe\EnumComposiExe\bin\Debug\netcoreapp3.1\EnumComposiExe.runtimeconfig.dev.json
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\EnumComposiExe\EnumComposiExe\bin\Debug\netcoreapp3.1\EnumComposiExe.dll
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\EnumComposiExe\EnumComposiExe\bin\Debug\netcoreapp3.1\EnumComposiExe.pdb
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\EnumComposiExe\EnumComposiExe\obj\Debug\netcoreapp3.1\EnumComposiExe.csprojAssemblyReference.cache
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\EnumComposiExe\EnumComposiExe\obj\Debug\netcoreapp3.1\EnumComposiExe.AssemblyInfoInputs.cache
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\EnumComposiExe\EnumComposiExe\obj\Debug\netcoreapp3.1\EnumComposiExe.AssemblyInfo.cs
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\EnumComposiExe\EnumComposiExe\obj\Debug\netcoreapp3.1\EnumComposiExe.csproj.CoreCompileInputs.cache
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\EnumComposiExe\EnumComposiExe\obj\Debug\netcoreapp3.1\EnumComposiExe.dll
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\EnumComposiExe\EnumComposiExe\obj\Debug\netcoreapp3.1\EnumComposiExe.pdb
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\EnumComposiExe\EnumComposiExe\obj\Debug\netcoreapp3.1\EnumComposiExe.genruntimeconfig.cache
